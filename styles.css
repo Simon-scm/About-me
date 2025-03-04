@@ -118,7 +118,7 @@ li a:active {
 
 /*Welcome section*/
 #welcome-section {
-    background-image: url("https://raw.githubusercontent.com/Simon-scm/png-storage/main/backgroundPicPW.jpg");
+    background-image: url("images/background.jpg");
     background-size: cover;
     background-position: center; 
     background-repeat: no-repeat;
